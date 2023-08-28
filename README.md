@@ -1,3 +1,6 @@
+# 💫 NOTE:
+This is my personal account to head towards my workplace account click -> [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/dakshatsuraasa)
+
 # 💫 About Me:
 👋 Hi there! I'm a BTech student with expertise in C++, Flutter, Firebase, and UX/UI design. My passion for creating high-quality user experiences drives me to specialize in building dynamic and scalable applications. <br><br>🚀 I'm confident in my ability to make a valuable contribution to any organization and excel as a valuable asset to the team. <br><br>👨‍💻 Currently, I'm exploring new technologies and building exciting projects in my free time. <br><br>💬 Let's connect and collaborate on some cool projects together!<br>
 
