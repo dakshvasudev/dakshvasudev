@@ -21,9 +21,6 @@ This is my personal account to head towards my workplace account click -> [![Git
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dakshvasudev&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dakshvasudev&icon=0&color=4)](https://visitcount.itsvg.in)
 
