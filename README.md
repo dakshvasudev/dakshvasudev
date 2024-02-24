@@ -24,4 +24,5 @@ This is my personal account to head towards my workplace account click -> [![Git
 ---
 [![](https://visitcount.itsvg.in/api?id=dakshvasudev&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![harvey-specter-suits](https://github.com/dakshvasudev/dakshvasudev/assets/91746245/13aff186-3ffc-49c2-b03f-f24be224e609)
+
